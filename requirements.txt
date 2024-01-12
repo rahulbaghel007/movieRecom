@@ -8,7 +8,7 @@ async-lru==2.0.4
 attrs==23.1.0
 Babel==2.12.1
 backcall==0.2.0
-bcc==0.18.0
+bcc==0.1.10
 beautifulsoup4==4.12.2
 bleach==6.0.0
 blinker==1.4
